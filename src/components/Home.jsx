@@ -9,15 +9,15 @@ const Home = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const catRes = await fetch("/database/category.json");
+      const catRes = await fetch("https://github.com/Kartikpatidar130/Books-website/blob/main/public/database/category.json");
       const cats = await catRes.json();
       setCategories(cats);
 
-      const subCatRes = await fetch("/database/subcategory.json");
+      const subCatRes = await fetch("https://github.com/Kartikpatidar130/Books-website/blob/main/public/database/subcategory.json");
       const subCats = await subCatRes.json();
       setSubCategories(subCats);
 
-      const booksRes = await fetch("/database/books.json");
+      const booksRes = await fetch("https://github.com/Kartikpatidar130/Books-website/blob/main/public/database/books.json");
       const booksData = await booksRes.json();
       setBooks(booksData);
     };
