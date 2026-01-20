@@ -1,0 +1,202 @@
+[
+  {
+    "id": 25,
+    "subcategoryId": 1,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81eB%2B7%2BCkUL.jpg",
+    "name": "Cinderella",
+    "author": "Brothers Grimm",
+    "price": 3.5,
+    "condition": "New",
+    "summary": "Classic fairy tale.",
+    "slug": "cinderella"
+  },
+  {
+    "id": 26,
+    "subcategoryId": 1,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81GqtNbs%2BPL.jpg",
+    "name": "Snow White",
+    "author": "Brothers Grimm",
+    "price": 3.7,
+    "condition": "Good",
+    "summary": "Princess & dwarfs.",
+    "slug": "snow-white"
+  },
+  {
+    "id": 27,
+    "subcategoryId": 2,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81WcnNQ-TBL.jpg",
+    "name": "Brown Bear Brown Bear",
+    "author": "Bill Martin Jr.",
+    "price": 3.9,
+    "condition": "New",
+    "summary": "Colorful learning.",
+    "slug": "brown-bear"
+  },
+  {
+    "id": 28,
+    "subcategoryId": 2,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81uH9U9M%2B-L.jpg",
+    "name": "Good Night Gorilla",
+    "author": "Peggy Rathmann",
+    "price": 4.0,
+    "condition": "Good",
+    "summary": "Zoo bedtime fun.",
+    "slug": "good-night-gorilla"
+  },
+  {
+    "id": 29,
+    "subcategoryId": 3,
+    "img": "https://m.media-amazon.com/images/I/71gZ7yx0WQL.jpg",
+    "name": "My First ABC",
+    "author": "Wonder House",
+    "price": 2.9,
+    "condition": "New",
+    "summary": "Alphabet learning.",
+    "slug": "first-abc"
+  },
+  {
+    "id": 30,
+    "subcategoryId": 3,
+    "img": "https://m.media-amazon.com/images/I/71rQ4ZKqGxL.jpg",
+    "name": "Numbers 1-100",
+    "author": "Dreamland",
+    "price": 3.2,
+    "condition": "Good",
+    "summary": "Counting practice.",
+    "slug": "numbers-1-100"
+  },
+  {
+    "id": 31,
+    "subcategoryId": 4,
+    "img": "https://m.media-amazon.com/images/I/81w1Z2JxS7L.jpg",
+    "name": "Kids Sudoku",
+    "author": "Om Books",
+    "price": 3.4,
+    "condition": "New",
+    "summary": "Brain puzzles.",
+    "slug": "kids-sudoku"
+  },
+  {
+    "id": 32,
+    "subcategoryId": 4,
+    "img": "https://m.media-amazon.com/images/I/71E4tZ5XteL.jpg",
+    "name": "Colouring Book",
+    "author": "Dreamland",
+    "price": 2.8,
+    "condition": "Good",
+    "summary": "Color & fun.",
+    "slug": "colouring-book"
+  },
+  {
+    "id": 33,
+    "subcategoryId": 5,
+    "img": "https://m.media-amazon.com/images/I/81h2gWPTYJL.jpg",
+    "name": "Bedtime Short Stories",
+    "author": "Ruskin Bond",
+    "price": 4.1,
+    "condition": "Good",
+    "summary": "Peaceful stories.",
+    "slug": "bedtime-short-stories"
+  },
+  {
+    "id": 34,
+    "subcategoryId": 5,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81F6BqHhG-L.jpg",
+    "name": "The Gruffalo",
+    "author": "Julia Donaldson",
+    "price": 4.0,
+    "condition": "New",
+    "summary": "Forest bedtime fun.",
+    "slug": "the-gruffalo"
+  },
+  {
+    "id": 35,
+    "subcategoryId": 6,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91%2Bf0Zk7ZUL.jpg",
+    "name": "Tintin",
+    "author": "Herge",
+    "price": 4.5,
+    "condition": "Very Good",
+    "summary": "Comic adventures.",
+    "slug": "tintin"
+  },
+  {
+    "id": 36,
+    "subcategoryId": 6,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+    "name": "Naruto",
+    "author": "Masashi Kishimoto",
+    "price": 5.0,
+    "condition": "Good",
+    "summary": "Ninja manga.",
+    "slug": "naruto"
+  },
+  {
+    "id": 37,
+    "subcategoryId": 10,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91A5d7RZr0L.jpg",
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "price": 5.9,
+    "condition": "Good",
+    "summary": "Desert planet politics.",
+    "slug": "dune"
+  },
+  {
+    "id": 38,
+    "subcategoryId": 10,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg",
+    "name": "Foundation",
+    "author": "Isaac Asimov",
+    "price": 5.5,
+    "condition": "Very Good",
+    "summary": "Future empire.",
+    "slug": "foundation"
+  },
+  {
+    "id": 39,
+    "subcategoryId": 12,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81s6DUyQCZL.jpg",
+    "name": "IT",
+    "author": "Stephen King",
+    "price": 6.2,
+    "condition": "Good",
+    "summary": "Evil clown terror.",
+    "slug": "it"
+  },
+  {
+    "id": 40,
+    "subcategoryId": 12,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81zM2zb6QpL.jpg",
+    "name": "The Exorcist",
+    "author": "William Peter Blatty",
+    "price": 5.7,
+    "condition": "Very Good",
+    "summary": "Demonic horror.",
+    "slug": "the-exorcist"
+  },
+  {
+    "id": 41,
+    "subcategoryId": 18,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81l3rZK4lnL.jpg",
+    "name": "Into the Wild",
+    "author": "Jon Krakauer",
+    "price": 5.2,
+    "condition": "Very Good",
+    "summary": "Adventure survival.",
+    "slug": "into-the-wild"
+  },
+  {
+    "id": 42,
+    "subcategoryId": 18,
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81af%2BMCATTL.jpg",
+    "name": "On the Road",
+    "author": "Jack Kerouac",
+    "price": 4.9,
+    "condition": "Good",
+    "summary": "Road travel story.",
+    "slug": "on-the-road"
+  }
+]
+
+
